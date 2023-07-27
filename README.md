@@ -12,6 +12,7 @@ false. The figure below will be used to illustrate the operation of basic filter
 morphological.
 
 Bitmap template
+
 ![image](https://github.com/bszarlowicz/BitMapOperations/assets/127704473/37c5acd1-a570-4168-b990-2bf39218aec6)
 
 For a fixed pixel by its neighbors we mean:
